@@ -24,8 +24,7 @@ pip install opencv-python mediapipe comtypes numpy pycaw
 Note: MediaPipe is working on Python version 3.8.
 
 <h3>How to Use?</h3>
--> Clone the repository to your local machine:
-      git clone https://github.com/your-username/hand-gesture-volume-control.git
+-> Clone the repository to your local machine.
 -> Navigate to the project directory:
       cd hand-gesture-volume-control
 -> Run the main Python script:
