@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hand Gesture based PC Volume Control</h1>
+<h1>GESTUVOLUME: A HAND GESTURE VOLUME CONTROLLER</h1>
 </div>
 
 <h3>Overview</h3>
@@ -49,7 +49,8 @@ pycaw
 <h3>Acknowledgments</h3>
 <p>Special thanks to the OpenCV and MediaPipe teams for providing powerful computer vision tools.
 Inspired by the idea of gesture-based interaction for enhanced user experience.
-Feel free to contribute, report issues, or suggest improvements!</p>
+Feel free to contribute, report issues, or suggest improvements!
+Made with <3 by Tanveer & Dipanshu.</p>
 
 
 
